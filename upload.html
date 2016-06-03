@@ -1,0 +1,27 @@
+<html>
+<head>
+<script language="JavaScript">
+<!--
+function teste(){
+if (document.upload.arquivo.value=="") {
+alert("File not found!")
+document.upload.arquivo.focus()
+return false
+}
+}
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+<body>
+<h2><font size="2" face="Tahoma"><strong>File cannot exceed 30 mb.</strong></font></h2>
+<form name="upload" action="upload.php" method="post" enctype="multipart/form-data" onsubmit="return teste()">
+  <input name="arquivo" type="file" lang="pt" size="60">
+  <br>
+<input type="submit" name="enviar" value="Enviar">
+</form>
+</center>
+</body>
+</html>
+</center>
+</body>
+</html>

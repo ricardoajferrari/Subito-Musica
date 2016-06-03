@@ -1,0 +1,58 @@
+<HTML>
+<HEAD><TITLE></TITLE>
+<style TYPE="text/css">
+<!--
+A:link {color:"#990000";text-decoration: none}
+
+A:visited {color:"#990000";text-decoration: none}
+
+A:hover {color:"#ff0000";text-decoration: underline}
+-->
+</style>
+
+<SCRIPT LANGUAGE=javascript>
+<!--
+// Today's Date
+var now = new Date();
+var mName = now.getMonth() + 1;
+var dName = now.getDay() + 1;
+var dayNr = now.getDate();
+var yearNr=now.getYear();
+if(dName==1) Day = "Domingo";
+if(dName==2) Day = "Segunda";
+if(dName==3) Day = "Ter&ccedil;a";
+if(dName==4) Day = "Quarta";
+if(dName==5) Day = "Quinta";
+if(dName==6) Day = "Sexta";
+if(dName==7) Day = "S&aacute;bado";
+if(yearNr < 2000) Year = 1900 + yearNr;
+else Year = yearNr;
+
+// String to display current date.
+var todaysDate =(" " + Day + ", " + dayNr + "/" + mName + "/" + Year);
+//  -->
+</SCRIPT>
+</HEAD>
+<body background="backbarra.jpg"topmargin="4">
+<TABLE border=0 width="100%">
+  <TBODY>
+  <TR>
+	<TD align="center" width="20%">
+
+	<B><font size="1"face="verdana"color="#8C0000">
+	<SCRIPT>document.write(todaysDate);</SCRIPT></b></td>
+	
+	<TD align="center" width="10%"></td>
+	
+	<TD align="left" width="70%">
+
+	<a href="indexmiller.htm"target="_top">
+	<B><font size="1"face="verdana">HOME</a>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+	<a href="mailto:millertimeblues@wup.com.br">
+	<B><font size="1"face="verdana">CONT@TO</a></td>
+</tr>
+</table>
+</BODY>
+</HTML>
+

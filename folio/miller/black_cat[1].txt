@@ -1,0 +1,58 @@
+
+<HTML>
+<HEAD><TITLE></TITLE>
+
+</HEAD>
+<A Name="topo">
+
+<body bgcolor="#000000">
+
+<A href="quemport.htm" target="display">
+<img src="backblk.gif"border="0"></a>
+<BR>
+<br>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=100%>
+<TR>
+	<TD align="left"vAlign=top width="40%">
+	<img src="streit.jpg"border="0"></TD>
+
+	<TD vAlign=top width="60%">
+	<b><font face="verdana"size="2"color="#C87300">
+	Celso Streit Quarteto</b><BR>
+	Tributo a Albert Collins</font></td>
+</tr>
+</table>
+
+<br><BR>
+
+<font face="verdana"size="2"color="#E2E2E2">
+
+Celso Streit vem tocando Blues há dez anos.<BR>
+Participou de várias bandas como Quebra 3, Feeling, Hightime Blues... <BR>
+E agora está trabalhando em seu projeto solo: Celso Streit Quarteto, 
+onde mostra a mistura de composições autorais em português com versões 
+e reciclagens de diferentes contextos do Blues.<BR> 
+Dois Shows no Theatro Treze de Maio em Santa Maria. <BR>
+Três Shows na FEISMA (Feira de Indústria e Comércio de Santa Maria),
+palco onde sempre há shows de nomes e bandas da Música Nacional.<BR> 
+Duas apresentações no evento MERCOCYCLE, encontro de motoqueiros de 
+todo Brasil e países vizinhos. <BR>
+Show no Music Hall - casa especializada em apresentações de Blues, 
+Jazz e Música instrumental, localizada em Porto Alegre. <BR>
+Show de abertura da Banda Blues Etílicos no Hotel Itaimbé de 
+Santa Maria.<BR> 
+Show em Uruguaiana. <BR>
+Show em Florianópolis - SC no Bar Café Cancum. <BR>
+Abertura do Show de Flávio Guimarães (gaitista da Blues Etílicos) 
+na casa Café Brasil em Santa Maria. 
+Projeto Blues Absynto em Temporada de seis meses em Santa Maria. 
+Mais apresentações em Bares noturnos. 
+
+<br><br>
+<A href="#topo">
+<center>
+<img src="upblk.gif"border="0"></a>
+</center>
+<br><br>
+<body>
+<HTML>

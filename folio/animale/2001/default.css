@@ -1,0 +1,13 @@
+A  {
+	text-decoration : none;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+
+A:Hover  {
+	text-decoration : underline;
+}
+
+BODY  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+
